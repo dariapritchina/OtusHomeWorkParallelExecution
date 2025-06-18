@@ -1,0 +1,14 @@
+/Users/dasha/RiderProjects/HomeWorkParallel/HomeWorkParallel/obj/Debug/net8.0/HomeWorkParallel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dasha/RiderProjects/HomeWorkParallel/HomeWorkParallel/obj/Debug/net8.0/HomeWorkParallel.AssemblyInfoInputs.cache
+/Users/dasha/RiderProjects/HomeWorkParallel/HomeWorkParallel/obj/Debug/net8.0/HomeWorkParallel.AssemblyInfo.cs
+/Users/dasha/RiderProjects/HomeWorkParallel/HomeWorkParallel/obj/Debug/net8.0/HomeWorkParallel.csproj.CoreCompileInputs.cache
+/Users/dasha/RiderProjects/HomeWorkParallel/HomeWorkParallel/bin/Debug/net8.0/HomeWorkParallel
+/Users/dasha/RiderProjects/HomeWorkParallel/HomeWorkParallel/bin/Debug/net8.0/HomeWorkParallel.deps.json
+/Users/dasha/RiderProjects/HomeWorkParallel/HomeWorkParallel/bin/Debug/net8.0/HomeWorkParallel.runtimeconfig.json
+/Users/dasha/RiderProjects/HomeWorkParallel/HomeWorkParallel/bin/Debug/net8.0/HomeWorkParallel.dll
+/Users/dasha/RiderProjects/HomeWorkParallel/HomeWorkParallel/bin/Debug/net8.0/HomeWorkParallel.pdb
+/Users/dasha/RiderProjects/HomeWorkParallel/HomeWorkParallel/obj/Debug/net8.0/HomeWorkParallel.dll
+/Users/dasha/RiderProjects/HomeWorkParallel/HomeWorkParallel/obj/Debug/net8.0/refint/HomeWorkParallel.dll
+/Users/dasha/RiderProjects/HomeWorkParallel/HomeWorkParallel/obj/Debug/net8.0/HomeWorkParallel.pdb
+/Users/dasha/RiderProjects/HomeWorkParallel/HomeWorkParallel/obj/Debug/net8.0/HomeWorkParallel.genruntimeconfig.cache
+/Users/dasha/RiderProjects/HomeWorkParallel/HomeWorkParallel/obj/Debug/net8.0/ref/HomeWorkParallel.dll
